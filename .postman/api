@@ -9,8 +9,12 @@ rootDirectory = postman/collections
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"index Copy Copy Copy.yaml","metaData":{}}
+files[] = {"path":"index Copy Copy.yaml","metaData":{}}
 files[] = {"path":"index Copy.yaml","metaData":{}}
 files[] = {"path":"index.yaml","metaData":{}}
+files[] = {"path":"New (1).yaml","metaData":{}}
+files[] = {"path":"New Copy.yaml","metaData":{}}
 files[] = {"path":"New.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
